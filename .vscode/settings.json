@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    "linux": true,
+    "macos": true,
+    "test": true,
+    "web": true,
+    "windows": true,
+    ".gitignore": true,
+    ".metadata": true,
+    "analysis_options.yaml": true,
+    "financeui.iml": true,
+    "pubspec.lock": true
+  }
+}
